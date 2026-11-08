@@ -18,7 +18,7 @@ https://data.mendeley.com/datasets/zr7vgbcyr2/1
 2. Place the clinical images inside the images/ folder.
 3. Keep metadata.csv and metadata_with_patient_split.csv in the project folder.
 4. Install the packages using: pip install -r requirements.txt
-5. Open PAD_UFES20_Project_2_2_Final_Submission.ipynb in Jupyter.
+5. Open COMP1013_Project_2_2_AvinashSalvadoreMonteiro_a1984953.ipynb in Jupyter.
 6. Run all cells in order.
 
 ## Results
